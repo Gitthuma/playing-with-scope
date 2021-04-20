@@ -1,17 +1,19 @@
 let x = 1;
 
-/*Calling output(x and y) from inside a() and b()*/
+/*Calling output(y and z) from inside a() and b()*/
 
 /*Calling output(x) from inside a() and b()*/
 
+/*Calling output(z and y) from inside a() and b()*/
+
 function a() {
     let y = 2;
-    output(x);
+    output(z);
 }
 
 function b() {
     let z = 3;
-    output(x);
+    output(y);
 }
 
 function output(value) {
