@@ -6,3 +6,5 @@ Let's look at a real example to demonstrate scoping.
 2. Open the example up in a browser and in your text editor.
 
 Ref: https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions
+
+Live web: https://gitthuma.github.io/playing-with-scope/
