@@ -1,11 +1,15 @@
 let x = 1;
 
+/*Calling output() from inside a() and b()*/
+
 function a() {
     let y = 2;
+    output(y);
 }
 
 function b() {
     let z = 3;
+    output(z);
 }
 
 function output(value) {
